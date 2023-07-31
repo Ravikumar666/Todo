@@ -1,0 +1,41 @@
+{
+  "Product": [
+    {
+      "ProductName": "Ravi",
+      "catagory": "Fruits",
+      "date": "2023-07-25T18:30:00.000Z",
+      "freshness": "Brand New",
+      "Price": 25,
+      "comment": "Apple",
+      "id": 1
+    },
+    {
+      "ProductName": "kumar",
+      "catagory": "Product",
+      "date": "2023-07-14T18:30:00.000Z",
+      "freshness": null,
+      "Price": 125,
+      "comment": "glass",
+      "id": 2
+    },
+    {
+      "ProductName": "Konda",
+      "catagory": "Product",
+      "date": "2023-07-14T18:30:00.000Z",
+      "freshness": "Brand New",
+      "Price": 78,
+      "comment": "galss",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
